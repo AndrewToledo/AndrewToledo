@@ -1,7 +1,7 @@
 ### Ola! Eu sou Andrew Toledo! 👋 🤓
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-toledo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sec_offcyber)
+
 
 ![Andrew ToledoGitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewToledo&show_icons=true&theme=dark)
 
