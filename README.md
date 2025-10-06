@@ -1,9 +1,8 @@
-### Ola! Eu sou Andrew Toledo! 👋 🤓
+### Olá! Eu sou Andrew Toledo! 👋 🤓
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-toledo)
 
-
-![Andrew ToledoGitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewToledo&show_icons=true&theme=dark)
+![Andrew Toledo GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewToledo&show_icons=true&theme=dark)
 
 ### Tecnologias que estou estudando atualmente
 
@@ -15,8 +14,10 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <!-- Adicionando os ícones do React e React Native -->
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img align="center" alt="react_native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-<br></br>
+<br>
 
-### Apaixonado por Desenvolvimento de sistemas e Segurança da informação. 
-
+### Apaixonado por Desenvolvimento de sistemas e Segurança da informação.
