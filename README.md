@@ -60,5 +60,3 @@ Sou apaixonado por **Desenvolvimento de Sistemas** e **Segurança da Informaçã
 
 ---
 
-<!-- Animação de cobra dos commits -->
-![snake gif](https://github.com/AndrewToledo/AndrewToledo/blob/output/github-contribution-grid-snake.svg)
