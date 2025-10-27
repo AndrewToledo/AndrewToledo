@@ -1,8 +1,8 @@
-
+<!-- Estilo Neon e animação hover nos ícones -->
 <style>
   .tech-icons img {
     transition: transform 0.3s ease, filter 0.3s ease;
-    filter: drop-shadow(0 0 5px #00ff88);
+    filter: drop-shadow(0 0 5px #00FF88);
   }
   .tech-icons img:hover {
     transform: scale(1.2);
@@ -10,8 +10,9 @@
   }
 </style>
 
+<!-- Título com efeito de digitação -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Andrew+Toledo!+👋+🤓;Desenvolvedor+Full+Stack+%7C+.NET+%7C+React+%7C+Node.js;Apaixonado+por+Tecnologia+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Andrew+Toledo!+👋+🤓;Desenvolvedor+Full+Stack+💻;Apaixonado+por+Tecnologia+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+🔒" alt="Typing SVG" />
 </h1>
 
 <!-- GIF lateral -->
@@ -70,8 +71,6 @@
 ### ❤️ Apaixonado por Desenvolvimento de Sistemas e Segurança da Informação
 
 ---
-
-### 🐍 Minhas Contribuições
 
 ### 🐍 Minhas Contribuições
 
