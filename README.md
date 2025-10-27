@@ -1,11 +1,11 @@
-<!-- Cabeçalho com efeito de digitação -->
+<!-- Efeito de digitação no topo -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Ol%C3%A1!+Eu+sou+Andrew+Toledo!;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+Andrew+Toledo!+👋;Desenvolvedor+Full+Stack+💻;Apaixonado+por+Tecnologia+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+🔒">
   </a>
 </p>
 
-<!-- GIF lateral -->
+<!-- GIF lateral direito -->
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <!-- Links sociais -->
@@ -56,7 +56,7 @@
 ---
 
 ### 💻 Sobre Mim
-Sou apaixonado por **Desenvolvimento de Sistemas** e **Segurança da Informação**, sempre buscando evoluir como **Desenvolvedor Full Stack** com foco em **React, Node.js, .NET e Firebase**.
+Sou apaixonado por **Desenvolvimento de Sistemas** e **Segurança da Informação**, sempre buscando evoluir como **Desenvolvedor Full Stack**, com foco em **React, Node.js, .NET e Firebase**.
 
 ---
 
