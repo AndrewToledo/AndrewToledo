@@ -1,14 +1,3 @@
-<!-- Estilo Neon e animação hover nos ícones -->
-<style>
-  .tech-icons img {
-    transition: transform 0.3s ease, filter 0.3s ease;
-    filter: drop-shadow(0 0 5px #00FF88);
-  }
-  .tech-icons img:hover {
-    transform: scale(1.2);
-    filter: drop-shadow(0 0 15px #9D00FF);
-  }
-</style>
 
 <!-- Título com efeito de digitação -->
 <h1 align="center">
