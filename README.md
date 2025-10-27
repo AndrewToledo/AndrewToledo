@@ -73,4 +73,4 @@
 
 ### 🐍 Minhas Contribuições
 
-![snake gif](https://raw.githubusercontent.com/AndrewToledo/AndrewToledo/output/github-contribution-grid-snake.svg)
+![snake gif](/home/andrew/Downloads/github-user-contribution.svg)
