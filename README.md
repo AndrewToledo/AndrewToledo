@@ -73,4 +73,4 @@
 
 ### 🐍 Minhas Contribuições
 
-![snake gif](https://platane.github.io/snk/)
+![snake gif](https://platane.github.io/snk/?user=AndrewToledo)
