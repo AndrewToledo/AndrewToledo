@@ -5,6 +5,9 @@
   </a>
 </p>
 
+<!-- GIF lateral -->
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <!-- Links sociais -->
 <p align="center">
   <a href="https://www.linkedin.com/in/andrew-toledo">
