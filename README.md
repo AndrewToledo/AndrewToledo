@@ -73,4 +73,4 @@
 
 ### 🐍 Minhas Contribuições
 
-![snake gif](/home/andrew/Downloads/github-user-contribution.svg)
+![snake gif](https://platane.github.io/snk/)
