@@ -1,7 +1,7 @@
 <!-- Cabeçalho com efeito de digitação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Ol%C3%A1!+Eu+sou+Andrew+Toledo!;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+e+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Ol%C3%A1!+Eu+sou+Andrew+Toledo!;Desenvolvedor+Full+Stack;">
   </a>
 </p>
 
